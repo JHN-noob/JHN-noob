@@ -8,5 +8,5 @@
 </p>
 
 ![js](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)![js](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)![js](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![js](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![js](https://img.shields.io/badge/PyTorch-14354C?style=for-the-badge&logo=pytorch&logoColor=white)![js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![js](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![js](https://img.shields.io/badge/PyTorch-F15B2A?style=for-the-badge&logo=pytorch&logoColor=white)![js](https://img.shields.io/badge/ML-3361CC?style=for-the-badge)![js](https://img.shields.io/badge/DL-7B00FF?style=for-the-badge)![js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![js](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![js](https://img.shields.io/badge/Jupyter_Notebook-FF3621?style=for-the-badge&logo=jupyter&20notebook&logoColor=white)
