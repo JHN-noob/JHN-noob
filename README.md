@@ -1,3 +1,9 @@
+### 안녕하세요, 👋 나재현입니다.
+저는 현재 컴퓨터공학을 전공 중인 학부생으로 인공지능, 머신러닝, 딥러닝 등을 공부하고 있습니다. 파이토치 기반으로 다양한 인공지능 모델 실습, 구현, 프로젝트를 진행 예정이며, 실용적인 연구와 문제 해결에 관심이 많습니다.
+
+
+
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=180&section=header&text=Hi%20there%20👋-nl-I'm%20studying%20Python,%20PyTorch-nl-and%20Deep%20learning&fontSize=40&fontAlignY=30"/>
 </p>
