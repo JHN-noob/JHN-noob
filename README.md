@@ -1,5 +1,5 @@
 ### 안녕하세요, 👋 나재현입니다.
-저는 현재 컴퓨터공학을 전공 중인 학부생으로 인공지능, 머신러닝, 딥러닝 등을 공부하고 있습니다. 파이토치 기반으로 다양한 인공지능 모델 실습, 구현, 프로젝트를 진행 예정이며, 실용적인 연구와 문제 해결에 관심이 많습니다.
+저는 현재 컴퓨터공학을 전공 중인 학생으로 인공지능, 머신러닝, 딥러닝 등을 공부하고 있습니다. 파이토치 기반으로 다양한 인공지능 모델 실습, 구현, 프로젝트를 진행 예정이며, 실용적인 연구와 문제 해결에 관심이 많습니다.
 
 ## 소개
 - 전공 : 컴퓨터공학
@@ -45,4 +45,9 @@
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter_Notebook-FF3621?style=for-the-badge&logo=jupyter&20notebook&logoColor=white"/>
 </p>
+<br/>
+
+## 연락처
+- Email : klnwogus@naver.com
+
 ⭐️ 제 깃허브를 방문해 주셔서 감사합니다!
