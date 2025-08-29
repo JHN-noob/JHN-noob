@@ -16,7 +16,7 @@
 ## 프로젝트
 ### 항공권 검색기 (Selenium + Tkinter)
 - GUI와 크롤러를 연동해 네이버 항공권 자동 검색
-- Selenium을 이용해 실시간 날짜별 웹 크롤링
+- Selenium을 이용해 날짜별 실시간 웹 크롤링
 - Tkinter로 사용자 친화적 인터페이스 제공
 
 ### 딥러닝 실습 (PyTorch)
