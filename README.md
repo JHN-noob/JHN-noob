@@ -3,7 +3,7 @@
 
 ## 소개
 - 전공 : 컴퓨터공학
-- 관심분야 : 머신러닝, 딥러닝
+- 관심분야 : 머신러닝, 딥러닝, 데이터 분석
 - 현재 공부 중 : PyTorch, ML, DL, Pandas, 선형대수, 알고리즘 등
 - 목표 : AI 개발 및 연구자
 
@@ -14,6 +14,10 @@
 - Tkinter로 사용자 친화적 인터페이스 제공
 
 ### 딥러닝 실습 (PyTorch)
+- 선형 회귀, 단층 및 다층 퍼셉트론 구현
+- 경사하강법, 역전파 실습
+- 옵티마이저, 하이퍼 파라미터 종류 실습
+- CSS229 강의 기반 이론 + 코드 실습
 <br/>
 
 <p align="center">
@@ -41,3 +45,4 @@
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter_Notebook-FF3621?style=for-the-badge&logo=jupyter&20notebook&logoColor=white"/>
 </p>
+⭐️ 제 깃허브를 방문해 주셔서 감사합니다!
