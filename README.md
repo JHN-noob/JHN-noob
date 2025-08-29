@@ -1,16 +1,19 @@
 ### 안녕하세요, 👋 나재현입니다.
 저는 현재 컴퓨터공학을 전공 중인 학부생으로 인공지능, 머신러닝, 딥러닝 등을 공부하고 있습니다. 파이토치 기반으로 다양한 인공지능 모델 실습, 구현, 프로젝트를 진행 예정이며, 실용적인 연구와 문제 해결에 관심이 많습니다.
-  
 
 ## 소개
 - 전공 : 컴퓨터공학
 - 관심분야 : 머신러닝, 딥러닝
-- 현재 공부 중 : 
+- 현재 공부 중 : PyTorch, ML, DL, Pandas, 선형대수, 알고리즘 등
+- 목표 : AI 개발 및 연구자
 
+## Projects
+### 항공권 검색기 (Selenium + Tkinter)
+- GUI와 크롤러를 연동해 네이버 항공권 자동 검색
+- Selenium을 이용해 실시간 날짜별 웹 크롤링
+- Tkinter로 사용자 친화적 인터페이스 제공
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=180&section=header&text=Hi%20there%20👋-nl-I'm%20studying%20Python,%20PyTorch-nl-and%20Deep%20learning&fontSize=40&fontAlignY=30"/>
-</p>
+### 딥러닝 실습 (PyTorch)
 <br/>
 
 <p align="center">
