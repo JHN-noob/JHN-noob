@@ -26,6 +26,9 @@
 - 모델 최적화, 정규화 기법(Dropout, BN 등) 실습
 - 전이 학습, Transformer 모델(ViT, NLP) 실습
 - CS229 강의 기반 이론 + 실습
+
+### 딥러닝 논문 구현
+- Attention is All You Need(2017)
 <br/>
 
 <p align="center">
