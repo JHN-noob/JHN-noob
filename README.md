@@ -28,7 +28,7 @@
 - CS229 강의 기반 이론 + 실습
 
 ### 딥러닝 논문 구현
-- Attention is All You Need(2017)
+- Attention Is All You Need(2017)
 <br/>
 
 <p align="center">
