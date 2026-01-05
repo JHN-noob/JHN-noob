@@ -9,7 +9,7 @@
 
 ## 경력
 - 공군 부사관 9년 복무
-  - 정보통신 분야
+  - 정보통신(무선통신) 분야
 - 영동테크윈(주) 2년 근무
   - MCU 및 SMPS 연구, 개발
 
@@ -27,8 +27,9 @@
 - 전이 학습, Transformer 모델(ViT, NLP) 실습
 - CS229 강의 기반 이론 + 실습
 
-### 딥러닝 논문 구현
+### 딥러닝 논문 구현 및 연구
 - Attention Is All You Need(2017)
+- What happens when the vector of Attention reduced
 <br/>
 
 <p align="center">
