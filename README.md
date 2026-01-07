@@ -30,8 +30,8 @@
 ### 딥러닝 논문 구현 및 연구
 - Attention Is All You Need(2017)
 - What happens when the vector of Attention reduced
-- 동영상 이미지 프레임에 따른 사물 인식 성능
 - LoRA 기반 자연어 처리 모델 Fine-Tuning
+- 동영상 이미지 프레임에 따른 사물 인식률 분석
 <br/>
 
 <p align="center">
