@@ -31,7 +31,7 @@
 - Attention Is All You Need(2017)
 - What happens when the vector of Attention reduced
 - LoRA 기반 자연어 처리 모델 Fine-Tuning
-- 동영상 이미지 프레임에 따른 사물 인식률 분석
+- 동영상 내 프레임에 변화에 따른 객체 인식 성능 분석
 <br/>
 
 <p align="center">
