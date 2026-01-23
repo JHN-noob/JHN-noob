@@ -34,14 +34,12 @@
 - 동영상 내 프레임에 변화에 따른 객체 인식 성능 분석
 <br/>
 
-<!--
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHN-noob"/>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=JHN-noob"/>
 </p>
 <br/>
--->
 
 <p align="center">
 🌱 My skills...
