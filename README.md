@@ -65,6 +65,7 @@
 
 ## 연락처
 - Email : klnwogus@naver.com
+- Notion : https://jhn-aiarxiv.notion.site/AI-2fb88e05f7e880caa140f8bec07b6561
 <br/>
 
 ⭐️ 제 깃허브를 방문해 주셔서 감사합니다!
