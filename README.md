@@ -65,7 +65,7 @@
 
 ## 연락처
 - Email : klnwogus@naver.com
-- Velog : [velog.io](https://velog.io/@klnwogus/posts)
+- Velog : [velog.io](https://velog.io/@klnwogus)
 - Notion : [jhn-aiarxiv](https://jhn-aiarxiv.notion.site/AI-2fb88e05f7e880caa140f8bec07b6561)
 <br/>
 
