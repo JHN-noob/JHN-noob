@@ -1,5 +1,5 @@
-### 안녕하세요 👋 나재현입니다.
-저는 컴퓨터공학을 전공하였으며 인공지능, 딥러닝을 공부하고 있습니다. PyTorch 기반으로 다양한 딥러닝 모델 구조 구현 및 연구, 프로젝트, 논문 리뷰 등을 진행 중이며, 실용적인 문제 해결과 연구에 관심이 많습니다.
+### 안녕하세요, 👋 나재현입니다.
+저는 컴퓨터공학을 전공하였으며 인공지능, 딥러닝을 공부하고 있습니다. PyTorch 기반 다양한 딥러닝 모델 구조 구현 및 연구, 프로젝트, 논문 리뷰 등을 진행 중이며, 실용적인 문제 해결과 연구에 관심이 많습니다.
 
 ## 소개
 - 전공 : 컴퓨터공학
@@ -65,7 +65,8 @@
 
 ## 연락처
 - Email : klnwogus@naver.com
-- Notion : https://jhn-aiarxiv.notion.site/AI-2fb88e05f7e880caa140f8bec07b6561
+- Velog : [velog.io](https://velog.io/@klnwogus/posts)
+- Notion : [jhn-aiarxiv](https://jhn-aiarxiv.notion.site/AI-2fb88e05f7e880caa140f8bec07b6561)
 <br/>
 
 ⭐️ 제 깃허브를 방문해 주셔서 감사합니다!
