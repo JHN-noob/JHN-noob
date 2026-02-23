@@ -30,7 +30,7 @@ PyTorch 기반 딥러닝 논문 리뷰 및 연구, AI 프로젝트 등을 진행
 - Tkinter로 사용자 친화적 인터페이스 제공
 
 ### 논문 리뷰 및 연구
-- Attention Is All You Need(2017) from scratch
+- Attention Is All You Need(2017): A from scratch implementation 
 - What happens when the vector of Attention reduced?
 - LoRA 기반 자연어 처리 모델 Fine-Tuning
 - 동영상 내 프레임 변화에 따른 객체 인식 성능 분석
