@@ -1,25 +1,21 @@
 ### 안녕하세요, 👋 나재현입니다.
-저는 컴퓨터공학을 전공하였으며 인공지능, 딥러닝을 공부하고 있습니다. PyTorch 기반 다양한 딥러닝 모델 구조 구현 및 연구, 프로젝트, 논문 리뷰 등을 진행 중이며, 실용적인 문제 해결과 연구에 관심이 많습니다.
+저는 컴퓨터공학을 전공하였고 인공지능·딥러닝을 공부하고 있습니다.
+<br>
+PyTorch 기반 딥러닝 논문 리뷰 및 연구, AI 프로젝트 등을 진행 중이며, 실용적인 문제 해결과 연구에 관심이 있습니다.
 
 ## 소개
-- 전공 : 컴퓨터공학
-- 관심분야 : NLP, CV, Multi-modal learning
-- 현재 공부 중 : 딥러닝, 데이터 전처리, 수학, 알고리즘 등
-- 목표 : AI 엔지니어
+- 전공 : Computer Science
+- 관심분야 : LLM(NLP), CV, Multi-modal learning
+- 현재 공부 중 : Deep Learning, Data preprocessing, Mathemetic, Algorithm, etc.
+- 목표 : AI Engeener
 
 ## 경력
 - 공군 부사관 9년 복무
-  - 정보통신(무선통신) 분야
+  - 무선통신장비 운용·정비
 - 영동테크윈(주) 2년 근무
-  - MCU 및 SMPS 연구, 개발
+  - MCU(Embedded board) 및 SMPS 연구, 개발
 
-## 프로젝트
-### 항공권 검색기 (Selenium + Tkinter)
-- GUI와 크롤러를 연동해 네이버 항공권 자동 검색하는 프로그램
-- Selenium을 이용한 실시간 날짜별 웹 크롤링 기능 구현
-- Tkinter로 사용자 친화적 인터페이스 제공
-
-### 딥러닝 기초 학습 (PyTorch)
+## 딥러닝 학습
 - DNN, CNN, RNN 기본모델 구현
 - 경사하강법, 손실 함수, 오차 역전파, 가중치 업데이트
 - 하이퍼 파라미터, 활성화 함수, 옵티마이저
@@ -27,11 +23,17 @@
 - 전이 학습, Transformer 모델(ViT, NLP)
 - CS229 Machine Learning
 
-### 인공지능 논문 리뷰 및 연구
-- Attention Is All You Need(2017)
-- What happens when the vector of Attention reduced
+## 프로젝트
+### 항공권 검색기 (Selenium + Tkinter)
+- GUI와 크롤러를 연동해 네이버 항공권 자동 검색하는 프로그램
+- Selenium을 이용한 실시간 날짜별 웹 크롤링 기능 구현
+- Tkinter로 사용자 친화적 인터페이스 제공
+
+### 논문 리뷰 및 연구
+- Attention Is All You Need(2017) from scratch
+- What happens when the vector of Attention reduced?
 - LoRA 기반 자연어 처리 모델 Fine-Tuning
-- 동영상 내 프레임에 변화에 따른 객체 인식 성능 분석
+- 동영상 내 프레임 변화에 따른 객체 인식 성능 분석
 <br/>
 
 <!--
