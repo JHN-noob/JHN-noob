@@ -6,7 +6,7 @@ PyTorch 기반 딥러닝 논문 리뷰 및 연구, AI 프로젝트 등을 진행
 ## 소개
 - 전공 : Computer Science
 - 관심분야 : LLM(NLP), CV, Multi-modal learning
-- 현재 공부 중 : Deep Learning, Data preprocessing, Mathemetic, Algorithm, etc.
+- 공부 중 : Deep Learning, Data preprocessing, Mathemetic, Algorithm, etc.
 - 목표 : AI Engeener
 
 ## 경력
@@ -16,11 +16,11 @@ PyTorch 기반 딥러닝 논문 리뷰 및 연구, AI 프로젝트 등을 진행
   - MCU(Embedded board) 및 SMPS 연구, 개발
 
 ## 딥러닝 학습
-- DNN, CNN, RNN 기본모델 구현
-- 경사하강법, 손실 함수, 오차 역전파, 가중치 업데이트
-- 하이퍼 파라미터, 활성화 함수, 옵티마이저
-- 모델 최적화, 정규화 기법(Dropout, BN 등)
-- 전이 학습, Transformer 모델(ViT, NLP)
+- DNN, CNN, RNN base model 구현
+- Gradient descent, Loss function, Back propagation, Weight updating
+- Hyper parameter, Activation function, optimizer
+- Model optimization, Regularization(Dropout, BN, LN 등)
+- Transfer learning, Transformer model 구현(ViT, NLP)
 - CS229 Machine Learning
 
 ## 프로젝트
