@@ -18,7 +18,7 @@ PyTorch 기반 딥러닝 논문 리뷰 및 연구, AI 프로젝트 등을 진행
 ## 딥러닝 학습
 - DNN, CNN, RNN base model 구현
 - Gradient descent, Loss function, Back propagation, Weight updating
-- Hyper parameter, Activation function, optimizer
+- Hyper parameter, Activation function, Optimizer
 - Model optimization, Regularization(Dropout, BN, LN 등)
 - Transfer learning, Transformer model 구현(ViT, NLP)
 - CS229 Machine Learning
