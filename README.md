@@ -1,7 +1,7 @@
 ### 안녕하세요, 👋 나재현입니다.
 저는 컴퓨터공학을 전공하였고 인공지능·딥러닝을 공부하고 있습니다.
 <br>
-PyTorch 기반 딥러닝 논문 리뷰 및 연구, AI 프로젝트 등을 진행 중이며, 실용적인 문제 해결과 연구에 관심이 있습니다.
+PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행 중이며, 실용적인 문제 해결과 연구에 관심이 있습니다.
 
 ## 소개
 - 전공 : Computer Science
@@ -29,9 +29,10 @@ PyTorch 기반 딥러닝 논문 리뷰 및 연구, AI 프로젝트 등을 진행
 - Selenium을 이용한 실시간 날짜별 웹 크롤링 기능 구현
 - Tkinter로 사용자 친화적 인터페이스 제공
 
-### 논문 리뷰 및 연구
+### 논문 구현 및 연구
 - Attention Is All You Need(2017): A from scratch implementation 
 - What happens when the vector of Attention reduced?
+- TimeSformer Variant
 - LoRA 기반 자연어 처리 모델 Fine-Tuning
 - 동영상 내 프레임 변화에 따른 객체 인식 성능 분석
 <br/>
