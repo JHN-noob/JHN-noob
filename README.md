@@ -22,6 +22,7 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 - Model optimization, Regularization(Dropout, BN, LN 등)
 - Transfer learning, Transformer model 구현(ViT, NLP)
 - CS229 Machine Learning
+- 코딩 자율학습단 20기(AI 에이전트)
 
 ## 프로젝트
 ### 항공권 검색기 (Selenium + Tkinter)
