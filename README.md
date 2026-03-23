@@ -33,10 +33,12 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 - Attention Is All You Need(2017): A from scratch implementation 
 - What happens when the vector of Attention reduced?
 - TimeSformer Variant
-- LoRA 기반 자연어 처리 모델 Fine-Tuning
-- 동영상 내 프레임 변화에 따른 객체 인식 성능 분석
+- LoRA 기반 자연어 처리 모델 Fine-Tuning(예정)
+- 동영상 내 프레임 변화에 따른 객체 인식 성능 분석(예정)
 
-### 구조물 안정성 물리 추론 AI 경진대회
+### DACON 구조물 안정성 물리 추론 AI 경진대회
+- EfficientNet 기반 calibration, bias-only adaptation, hard-sample fine-tuning 적용을 통한 성능 최적화
+- validation과 실제 제출 결과 비교·분석으로 일반화 성능 및 검증 신뢰도 개선
 <br/>
 
 <!--
