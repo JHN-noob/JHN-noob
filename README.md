@@ -21,7 +21,7 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 - Hyper parameter, Activation function, Optimizer
 - Model optimization, Regularization(Dropout, BN, LN 등)
 - Transfer learning, Transformer model 구현(ViT, NLP)
-- CS229 Machine Learning
+- Stanford CS229 Machine Learning
 - 코딩 자율학습단 20기(AI 에이전트)
 
 ## 프로젝트
@@ -34,8 +34,8 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 - Attention Is All You Need(2017): A from scratch implementation 
 - What happens when the vector of Attention reduced?
 - TimeSformer Variant
-- LoRA 기반 자연어 처리 모델 Fine-Tuning(예정)
-- 동영상 내 프레임 변화에 따른 객체 인식 성능 분석(예정)
+- (예정)LoRA 기반 자연어 처리 모델 Fine-Tuning
+- (예정)동영상 내 프레임 변화에 따른 객체 인식 성능 분석
 
 ### DACON 구조물 안정성 물리 추론 AI 경진대회
 - 딥러닝 기반 구조물 이미지 분류 경진대회 실험 수행 및 성능 개선
