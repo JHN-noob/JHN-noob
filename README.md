@@ -6,7 +6,7 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 ## 소개
 - 전공 : Computer Science
 - 관심분야 : LLM(NLP), CV, Multi-modal learning
-- 공부 중 : Deep Learning, Data preprocessing, Mathemetic, Algorithm, etc.
+- 공부 중 : Deep Learning, Data preprocessing, Mathematics, Algorithm, etc.
 - 목표 : AI Engeener
 
 ## 경력
