@@ -41,6 +41,8 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 - 딥러닝 기반 구조물 이미지 분류 경진대회 실험 수행 및 성능 개선
 - EfficientNet 기반 calibration, bias-only adaptation, hard-sample fine-tuning 적용을 통한 성능 최적화
 - validation과 실제 제출 결과 비교·분석으로 일반화 성능 및 검증 신뢰도 개선
+
+### AI Study Helper
 <br/>
 
 <!--
