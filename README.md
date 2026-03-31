@@ -34,7 +34,7 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 - Attention Is All You Need(2017): A from scratch implementation 
 - What happens when the vector of Attention reduced?
 - TimeSformer Variant
-- (예정)LoRA 기반 자연어 처리 모델 Fine-Tuning
+- LoRA-based Domain Adaptation in LLMs: Layer Placement and Rank-Forgetting Trade-offs
 - (예정)동영상 내 프레임 변화에 따른 객체 인식 성능 분석
 
 ### DACON 구조물 안정성 물리 추론 AI 경진대회
