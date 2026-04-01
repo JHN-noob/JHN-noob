@@ -3,19 +3,19 @@
 <br>
 PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행 중이며 실용적인 문제 해결과 연구에 관심이 많습니다.
 
-## 소개
+## About
 - 전공 : Computer Science
 - 관심분야 : LLM(NLP), CV, Multi-modal learning
 - 공부 중 : Deep Learning, Data preprocessing, Mathematics, Algorithm, etc.
 - 목표 : AI Engeener
 
-## 경력
+## Experience
 - 공군 부사관 9년 복무
   - 무선통신장비 운용·정비
 - 영동테크윈(주) 2년 근무
   - MCU(Embedded board) 및 SMPS 연구, 개발
 
-## 딥러닝 학습
+## Deep Learning
 - DNN, CNN, RNN base model 구현
 - Gradient descent, Loss function, Back propagation, Weight updating
 - Hyper parameter, Activation function, Optimizer
@@ -24,8 +24,8 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 - Stanford CS229 Machine Learning
 - 코딩 자율학습단 20기(AI 에이전트)
 
-## 프로젝트
-### 항공권 검색기 (Selenium + Tkinter)
+## Projects
+### 항공권 검색기(Selenium + Tkinter)
 - GUI와 크롤러를 연동해 네이버 항공권을 자동 검색하는 프로그램
 - Selenium을 이용한 실시간 날짜별 웹 크롤링 기능 구현
 - Tkinter로 사용자 친화적 인터페이스 제공
@@ -37,15 +37,20 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 - LoRA-based Domain Adaptation in LLMs: Layer Placement and Rank-Forgetting Trade-offs
 - (예정)동영상 내 프레임 변화에 따른 객체 인식 성능 분석
 
+### AI Study Helper
+- 학습 기록 및 과정을 관리할 수 있고 AI 추천 기능이 있는 개인용 웹앱
+- AI·딥러닝 관련 기능을 실제 서비스 형태로 확장
+
+### BabRadar
+
+## Competitions
 ### DACON 구조물 안정성 물리 추론 AI 경진대회
 - 딥러닝 기반 구조물 이미지 분류 경진대회 실험 수행 및 성능 개선
 - EfficientNet 기반 calibration, bias-only adaptation, hard-sample fine-tuning 적용을 통한 성능 최적화
 - validation과 실제 제출 결과 비교·분석으로 일반화 성능 및 검증 신뢰도 개선
 
-### AI Study Helper
-- 학습 기록 및 과정을 관리할 수 있고 AI 추천 기능이 있는 개인용 웹앱
-- AI·딥러닝 관련 기능을 실제 서비스 형태로 확장
-<br/>
+### KRAFTON AI R&D HACKATHON
+<br>
 
 <!--
 <p align="center">
@@ -74,13 +79,13 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter_Notebook-FF3621?style=for-the-badge&logo=jupyter&20notebook&logoColor=white"/>
 </p>
-<br/>
+<br>
 
 ## 연락처
 - Email : klnwogus@naver.com
 - LinkedIn :
 - Velog : [velog.io](https://velog.io/@klnwogus)
 - Notion : [jhn-aiarxiv](https://jhn-aiarxiv.notion.site/AI-2fb88e05f7e880caa140f8bec07b6561)
-<br/>
+<br>
 
 ⭐️ 제 깃허브를 방문해 주셔서 감사합니다!
