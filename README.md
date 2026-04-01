@@ -78,6 +78,7 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 
 ## 연락처
 - Email : klnwogus@naver.com
+- LinkedIn :
 - Velog : [velog.io](https://velog.io/@klnwogus)
 - Notion : [jhn-aiarxiv](https://jhn-aiarxiv.notion.site/AI-2fb88e05f7e880caa140f8bec07b6561)
 <br/>
