@@ -15,7 +15,7 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 - 영동테크윈(주) 2년 근무
   - MCU(Embedded board) 및 SMPS 연구, 개발
 
-## Deep Learning
+## Learning Log
 - DNN, CNN, RNN base model 구현
 - Gradient descent, Loss function, Back propagation, Weight updating
 - Hyper parameter, Activation function, Optimizer
@@ -27,8 +27,7 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 ## Projects
 ### 항공권 검색기(Selenium + Tkinter)
 - GUI와 크롤러를 연동해 네이버 항공권을 자동 검색하는 프로그램
-- Selenium을 이용한 실시간 날짜별 웹 크롤링 기능 구현
-- Tkinter로 사용자 친화적 인터페이스 제공
+- Selenium과 Tkinter를 이용한 실시간 날짜별 웹 크롤링 기능 구현
 
 ### 논문 구현 및 연구
 - Attention Is All You Need(2017): A from scratch implementation 
@@ -47,7 +46,6 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 ### DACON 구조물 안정성 물리 추론 AI 경진대회
 - 딥러닝 기반 구조물 이미지 분류 경진대회 실험 수행 및 성능 개선
 - EfficientNet 기반 calibration, bias-only adaptation, hard-sample fine-tuning 적용을 통한 성능 최적화
-- validation과 실제 제출 결과 비교·분석으로 일반화 성능 및 검증 신뢰도 개선
 
 ### KRAFTON AI R&D HACKATHON
 <br>
