@@ -30,13 +30,13 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 - Selenium과 Tkinter를 이용한 실시간 날짜별 웹 크롤링 기능 구현
 
 ### 논문 구현 및 연구
-- Attention Is All You Need(2017): A from scratch implementation
+- `Attention Is All You Need(2017): A from scratch implementation`<br>
   - What happens when the vector of Attention reduced?
-- TimeSformer Variant
+- `TimeSformer Variant`<br>
   - 사전학습된 TimeSformer를 활용한 비디오 데이터셋별 분류 성능 실험
-- LoRA-based Domain Adaptation in LLMs: Effects of Layer Placement and Rank on Adaptation and Forgetting
+- `LoRA-based Domain Adaptation in LLMs: Effects of Layer Placement and Rank on Adaptation and Forgetting`<br>
   - LoRA 기반 LLM 도메인 적응에서 레이어 위치와 Rank가 적응 성능 및 기존 지식 망각에 미치는 영향 분석
-- (Planned)동영상 내 프레임 변화에 따른 객체 인식 성능 분석
+- `(Planned)동영상 내 프레임 변화에 따른 객체 인식 성능 분석`
 
 ### AI Study Helper
 - 학습 기록 및 과정을 관리할 수 있고 AI 추천 기능이 있는 개인용 웹앱
