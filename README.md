@@ -16,27 +16,27 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
   - MCU(Embedded board) 및 SMPS 연구, 개발
 
 ## Learning Log
-- DNN, CNN, RNN base model 구현
-- Gradient descent, Loss function, Back propagation, Weight updating
-- Hyper parameter, Activation function, Optimizer
-- Model optimization, Regularization(Dropout, BN, LN 등)
-- Transfer learning, Transformer model 구현(ViT, NLP)
-- Stanford CS229 Machine Learning
+- [인프런] 처음하는 딥러닝과 파이토치(Pytorch) 부트캠프
 - 코딩 자율학습단 20기(AI 에이전트)
+- [Coursera] Deep Learning Specialization
+- (Planned)[Coursera] Machine Learning Specialization
+- (Planned)[Coursera] Mathematics for Machine Learning and Data Science Specialization
+- (Planned)[Stanford] CS229 Machine Learning
+- (Planned)[Stanford] CS231n Deep Learning for Computer Vision
 
 ## Projects
+### 논문 구현 및 연구
+- `Attention Is All You Need(2017): A from scratch implementation`
+  - What happens when the vector of Attention reduced?
+- `TimeSformer Variant`
+  - 사전학습된 TimeSformer를 활용한 비디오 데이터셋별 분류 성능 실험
+- `LoRA-based Domain Adaptation in LLMs: Effects of Layer Placement and Rank on Adaptation and Forgetting`
+  - LoRA 기반 LLM 도메인 적응에서 레이어 위치와 Rank가 적응 성능 및 기존 지식 망각에 미치는 영향 분석
+- `(Planned)동영상 내 프레임 변화에 따른 객체 인식 성능 분석`
+
 ### 항공권 검색기(Selenium + Tkinter)
 - GUI와 크롤러를 연동해 네이버 항공권을 자동 검색하는 프로그램
 - Selenium과 Tkinter를 이용한 실시간 날짜별 웹 크롤링 기능 구현
-
-### 논문 구현 및 연구
-- `Attention Is All You Need(2017): A from scratch implementation`<br>
-  - What happens when the vector of Attention reduced?
-- `TimeSformer Variant`<br>
-  - 사전학습된 TimeSformer를 활용한 비디오 데이터셋별 분류 성능 실험
-- `LoRA-based Domain Adaptation in LLMs: Effects of Layer Placement and Rank on Adaptation and Forgetting`<br>
-  - LoRA 기반 LLM 도메인 적응에서 레이어 위치와 Rank가 적응 성능 및 기존 지식 망각에 미치는 영향 분석
-- `(Planned)동영상 내 프레임 변화에 따른 객체 인식 성능 분석`
 
 ### AI Study Helper
 - 학습 기록 및 과정을 관리할 수 있고 AI 추천 기능이 있는 개인용 웹앱
@@ -75,7 +75,7 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 <img src="https://img.shields.io/badge/PyTorch-F15B2A?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/ML-3361CC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DL-7B00FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<!--<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>-->
 <br>
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter_Notebook-FF3621?style=for-the-badge&logo=jupyter&20notebook&logoColor=white"/>
@@ -84,7 +84,7 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 
 ## 연락처
 - Email : klnwogus@naver.com
-- LinkedIn :
+- LinkedIn : [www.linkedin.com/in/jhn-noob](https://www.linkedin.com/in/jhn-noob/)
 - Velog : [velog.io](https://velog.io/@klnwogus)
 - Notion : [jhn-aiarxiv](https://jhn-aiarxiv.notion.site/AI-2fb88e05f7e880caa140f8bec07b6561)
 <br>
