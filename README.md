@@ -52,6 +52,8 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 - EfficientNet 기반 calibration, bias-only adaptation, hard-sample fine-tuning 적용을 통한 성능 최적화
 
 ### KRAFTON AI R&D HACKATHON
+
+### DACON 스마트 창고 출고 지연 예측 AI 경진대회
 <br>
 
 <!--
