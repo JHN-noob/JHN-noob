@@ -22,6 +22,8 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 - [Coursera] Deep Learning Specialization
 - (Planned)[Coursera] Machine Learning Specialization
 - (Planned)[Coursera] Mathematics for Machine Learning and Data Science Specialization
+- (Planned)[Coursera] PyTorch: Advanced Architectures and Deployment
+- (Planned)[Coursera] Natural Language Processing Specialization
 - (Planned)[Stanford] CS229 Machine Learning
 - (Planned)[Stanford] CS231n Deep Learning for Computer Vision
 
