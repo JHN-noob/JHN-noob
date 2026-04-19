@@ -20,7 +20,7 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 - [인프런] 처음하는 딥러닝과 파이토치(Pytorch) 부트캠프
 - 코딩 자율학습단 20기(AI 에이전트)
 - [Coursera] Deep Learning Specialization
-- [Columbia] Prompt Engineering & Programming With OpenAI / Building Customized LLMs with OpenAI
+- [Columbia] Prompt Engineering & Programming With OpenAI
 - (Planned)[Coursera] Machine Learning Specialization
 - (Planned)[Coursera] Mathematics for Machine Learning and Data Science Specialization
 - (Planned)[Coursera] Generative AI Advance Fine-Tuning for LLMs
