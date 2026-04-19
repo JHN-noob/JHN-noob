@@ -50,7 +50,7 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 
 ## Competitions
 ### DACON 구조물 안정성 물리 추론 AI 경진대회
-- CNN 기반 모델을 활용한 구조물 이미지 분류 실험 수행 및 성능 개선
+- CNN 기반 모델을 활용한 구조물 이미지 분류 실험 및 성능 개선
 - EfficientNet-based calibration, bias-only adaptation, hard-sample fine-tuning 적용을 통한 성능 최적화
 
 ### DACON 스마트 창고 출고 지연 예측 AI 경진대회
