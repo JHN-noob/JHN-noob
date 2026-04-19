@@ -16,16 +16,16 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
   - MCU(Embedded board) 및 SMPS 연구, 개발
 
 ## Learning Log
-- [Stanford] CS230 Deep Learning
+- [Stanford] CS230 Deep Learning / (Planned)CS229 Machine Learning / (Planned)CS231n Deep Learning for Computer Vision
 - [인프런] 처음하는 딥러닝과 파이토치(Pytorch) 부트캠프
 - 코딩 자율학습단 20기(AI 에이전트)
 - [Coursera] Deep Learning Specialization
+- [Columbia] Prompt Engineering & Programming With OpenAI / Building Customized LLMs with OpenAI
 - (Planned)[Coursera] Machine Learning Specialization
 - (Planned)[Coursera] Mathematics for Machine Learning and Data Science Specialization
+- (Planned)[Coursera] Generative AI Advance Fine-Tuning for LLMs
 - (Planned)[Coursera] PyTorch: Advanced Architectures and Deployment
 - (Planned)[Coursera] Natural Language Processing Specialization
-- (Planned)[Stanford] CS229 Machine Learning
-- (Planned)[Stanford] CS231n Deep Learning for Computer Vision
 
 ## Projects
 ### 논문 구현 및 연구
@@ -50,12 +50,13 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 
 ## Competitions
 ### DACON 구조물 안정성 물리 추론 AI 경진대회
-- 딥러닝 기반 구조물 이미지 분류 경진대회 실험 수행 및 성능 개선
-- EfficientNet 기반 calibration, bias-only adaptation, hard-sample fine-tuning 적용을 통한 성능 최적화
-
-### KRAFTON AI R&D HACKATHON
+- CNN 기반 모델을 활용한 구조물 이미지 분류 실험 수행 및 성능 개선
+- EfficientNet-based calibration, bias-only adaptation, hard-sample fine-tuning 적용을 통한 성능 최적화
 
 ### DACON 스마트 창고 출고 지연 예측 AI 경진대회
+- 부스팅 트리 기반 모델을 활용한 스마트 창고 출고 지연 예측 실험 및 성능 개선
+
+### KRAFTON AI R&D HACKATHON
 <br>
 
 <!--
