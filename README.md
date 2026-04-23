@@ -16,7 +16,7 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
   - MCU(Embedded board) 및 SMPS 연구, 개발
 
 ## Learning Log
-- [Stanford] CS230 Deep Learning / (Planned)CS229 Machine Learning / (Planned)CS231n Deep Learning for Computer Vision
+- [Stanford] CS230 Deep Learning
 - [인프런] 처음하는 딥러닝과 파이토치(Pytorch) 부트캠프
 - 코딩 자율학습단 20기(AI 에이전트)
 - [Coursera] Deep Learning Specialization
@@ -26,6 +26,7 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 - (Planned)[Coursera] Generative AI Advance Fine-Tuning for LLMs
 - (Planned)[Coursera] PyTorch: Advanced Architectures and Deployment
 - (Planned)[Coursera] Natural Language Processing Specialization
+- (Planned)CS229 Machine Learning / CS231n Deep Learning for Computer Vision
 
 ## Projects
 ### 논문 구현 및 연구
@@ -35,6 +36,7 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
   - 사전학습된 TimeSformer를 활용한 비디오 데이터셋별 분류 성능 실험
 - `LoRA-based Domain Adaptation in LLMs: Effects of Layer Placement and Rank on Adaptation and Forgetting`
   - LoRA 기반 LLM 도메인 적응에서 레이어 위치와 Rank가 적응 성능 및 기존 지식 망각에 미치는 영향 분석
+- `(Planned)트랜스포머 모델과 비디오 모델의 Adaptation 실험`
 - `(Planned)동영상 내 프레임 변화에 따른 객체 인식 성능 분석`
 
 ### 항공권 검색기(Selenium + Tkinter)
