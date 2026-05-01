@@ -21,10 +21,10 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 - 코딩 자율학습단 20기(AI 에이전트)
 - [Coursera] Deep Learning Specialization
 - [Coursera] Machine Learning Specialization
+- [Coursera] Mathematics for Machine Learning and Data Science Specialization
 - [Columbia] Prompt Engineering & Programming With OpenAI
 
 ### Planned
-- (Planned)[Coursera] Mathematics for Machine Learning and Data Science Specialization
 - (Planned)[Coursera] Generative AI Advance Fine-Tuning for LLMs
 - (Planned)[Coursera] PyTorch: Advanced Architectures and Deployment
 - (Planned)[Coursera] Natural Language Processing Specialization
