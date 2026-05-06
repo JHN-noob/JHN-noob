@@ -39,7 +39,7 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 - `LoRA-based Domain Adaptation in LLMs: Effects of Layer Placement and Rank on Adaptation and Forgetting`
   - LoRA 기반 LLM 도메인 적응에서 레이어 위치와 Rank가 적응 성능 및 기존 지식 망각에 미치는 영향 분석
 - `Parameter-Efficient Video Object Detection: Comparing Temporal Adapters for RT-DETR and YOLO`
-  - RT-DETR 및 YOLO 기반 동영상 객체탐지에서 Temporal Adapter 활용 PEFT 성능, 효율, 공간축/시간축 적응 효과, 프레임별 탐지 안정성 분석
+  - RT-DETR 및 YOLO 기반 Temporal Adapter를 활용해 동영상 객체탐지 PEFT 성능, 효율성, 시공간 적응성, 프레임별 탐지 안정성 분석
 
 ### 항공권 검색기(Selenium + Tkinter)
 - GUI와 크롤러를 연동해 네이버 항공권을 자동 검색하는 프로그램
