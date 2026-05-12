@@ -28,6 +28,7 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 - (Planned)[Coursera] Generative AI Advance Fine-Tuning for LLMs
 - (Planned)[Coursera] PyTorch: Advanced Architectures and Deployment
 - (Planned)[Coursera] Natural Language Processing Specialization
+- (Planned)[Coursera] IBM Introduction to Neural Networks and PyTorch / Deep Learning with PyTorch
 - (Planned)[Stanford] CS229 Machine Learning / CS231n Deep Learning for Computer Vision
 
 ## Projects
