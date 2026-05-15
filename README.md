@@ -35,6 +35,7 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 ### 논문 구현 및 연구
 - `Attention Is All You Need(2017): A from scratch implementation`
   - What happens when the vector of Attention reduced?
+  - Multi-Head Attention 잠재 벡터 차원 축소에 따른 Attention 점수와 계산 효율 변화 연구
 - `TimeSformer Variant`
   - 사전학습된 TimeSformer를 활용한 비디오 데이터셋별 분류 성능 실험
 - `LoRA-based Domain Adaptation in LLMs: Effects of Layer Placement and Rank on Adaptation and Forgetting`
