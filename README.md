@@ -5,8 +5,8 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 
 ## About
 - 전공 : Computer Science
-- 관심분야 : LLM, PEFT, Object Detection, Multimodal Learning
-- 공부 중 : Deep Learning, AI Agent Workflows, Mathematics, Algorithm, etc.
+- 관심분야 : PEFT, Multimodal Learning
+- 공부 중 : Deep Learning, Mathematics, Algorithm, etc.
 - 목표 : AI Engineer, AI Researcher
 
 ## Experience
