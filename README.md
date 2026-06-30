@@ -4,7 +4,7 @@
 PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행 중이며 실용적인 문제 해결과 연구에 관심이 많습니다.
 
 ## About
-- 전공 : Computer Science
+- 전공 : B.S in Computer Science
 - 관심분야 : PEFT, Multimodal Learning
 - 공부 중 : Deep Learning, Mathematics, Algorithm, etc.
 - 목표 : AI Engineer, AI Researcher
