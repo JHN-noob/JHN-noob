@@ -10,6 +10,8 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 - 목표 : AI Engineer, AI Researcher
 
 ## Experience
+- Research Intern
+  - Dankook University, DUCK Lab
 - 대한민국 공군 부사관 9년 복무
   - 무선통신장비 운용·정비
 - 영동테크윈(주) 2년 근무
