@@ -5,7 +5,7 @@ PyTorch 기반 딥러닝 연구, AI 프로젝트 등을 진행 중이며 근본 
 
 ## About
 - Major: M.S. Student in AI-based Convergence | B.S. in Computer Science
-- Research Interests: Deep Learning, Multimodal Learning, Vision-Language Models
+- Research Interests: Deep Learning, Multimodal Learning, and Vision-Language Models
 - Currently Studying: Mathematics, Algorithm, etc.
 - Career Goal: AI Research Scientist
 
