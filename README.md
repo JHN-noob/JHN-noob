@@ -1,13 +1,13 @@
 ### 안녕하세요, 👋 나재현입니다.
-컴퓨터공학을 전공하였고 인공지능·딥러닝을 공부하고 있습니다.
+컴퓨터공학을 전공했으며 현재 인공지능·딥러닝을 연구하고 있습니다.
 <br>
-PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행 중이며 실용적인 문제 해결과 연구에 관심이 많습니다.
+PyTorch 기반 딥러닝 연구, AI 프로젝트 등을 진행 중이며 근본 원리에 대한 탐구와 실용적인 문제 해결에 관심이 많습니다.
 
 ## About
-- 전공 : M.S. Student in AI-based Convergence | B.S. in Computer Science
-- 관심분야 : PEFT, Multimodal Learning
-- 공부 중 : Deep Learning, Mathematics, Algorithm, etc.
-- 목표 : AI Engineer, AI Researcher
+- Major: M.S. Student in AI-based Convergence | B.S. in Computer Science
+- Research Interests: Deep Learning, Multimodal Learning, Vision-Language Models
+- Currently Studying: Mathematics, Algorithm, etc.
+- Career Goal: AI Research Scientist
 
 ## Experience
 - Research Intern
@@ -97,10 +97,10 @@ PyTorch 기반 딥러닝 논문 구현 및 연구, AI 프로젝트 등을 진행
 <br>
 
 ## Contact
-- Email : klnwogus@naver.com
-- LinkedIn : [www.linkedin.com/in/jhn-noob](https://www.linkedin.com/in/jhn-noob/)
-- Velog : [velog.io](https://velog.io/@klnwogus)
-- Notion : [JHN-AIarxiv](https://jhn-aiarxiv.notion.site/AI-2fb88e05f7e880caa140f8bec07b6561)
+- Email: klnwogus@naver.com
+- LinkedIn: [www.linkedin.com/in/jhn-noob](https://www.linkedin.com/in/jhn-noob/)
+- Velog: [velog.io](https://velog.io/@klnwogus)
+- Notion: [JHN-AIarxiv](https://jhn-aiarxiv.notion.site/AI-2fb88e05f7e880caa140f8bec07b6561)
 <br>
 
 ⭐️ 제 깃허브를 방문해 주셔서 감사합니다!
